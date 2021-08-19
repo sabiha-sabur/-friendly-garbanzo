@@ -1,5 +1,5 @@
 ---
-title: "R Notebook"
+title: "This is my changed title"
 output: html_notebook
 ---
 
@@ -8,6 +8,7 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 ```{r}
 plot(mtcars)
+mtcars
 ```
 
 ```{r}
